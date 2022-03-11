@@ -8,7 +8,7 @@ Run the executable file:
 
 python nguyenhong_duc_grade_the_exams.py
 
-## Githob
+## Github
 
 https://github.com/nhDuc1993/funix
 
